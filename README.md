@@ -4,18 +4,6 @@
 
 LexiGem is a beautiful and simple web application that acts as an AI-powered lexicographer. Using Google's Gemini API, it provides complete, dictionary-style entries for words in multiple languages, starting with English and French.
 
-## Preview
-
-<p align="center">
-  <img src="https://i.imgur.com/GzG9B5E.png" alt="LexiGem English Definition" width="700">
-  <em>Defining a word in English.</em>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/J8YV028.png" alt="LexiGem French Definition" width="700">
-  <em>Defining a word in French.</em>
-</p>
-
 ## Features
 
 - **AI-Powered Definitions**: Leverages the power of the Google Gemini 1.5 Flash model for comprehensive and accurate results.
