@@ -86,6 +86,9 @@ LexiGem/
     └── index.html        # The HTML template for the user interface
 ```
 
+## Tutorial 
+https://softwarejournal.blog/blog/building-lexigem-ai-powered-dictionary-app-google-gemini-flask/
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
